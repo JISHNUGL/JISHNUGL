@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-certs" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="16" fill="url(#bg-certs)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+
+  <!-- Left Side: Certifications -->
+  <g transform="translate(50, 45)">
+    <text x="0" y="0" fill="#f8fafc" font-family="-apple-system, sans-serif" font-size="20" font-weight="700">📜 Verified Certifications</text>
+    
+    <!-- Cert Pill 1 -->
+    <g transform="translate(0, 25)">
+      <rect width="250" height="42" rx="8" fill="rgba(139, 92, 246, 0.1)" stroke="#8b5cf6" stroke-width="1"/>
+      <text x="15" y="26" fill="#e9d5ff" font-family="sans-serif" font-size="13" font-weight="600">☁️ AWS Partner Accreditation</text>
+    </g>
+
+    <!-- Cert Pill 2 -->
+    <g transform="translate(265, 25)">
+      <rect width="250" height="42" rx="8" fill="rgba(6, 182, 212, 0.1)" stroke="#06b6d4" stroke-width="1"/>
+      <text x="15" y="26" fill="#cffafe" font-family="sans-serif" font-size="13" font-weight="600">🐍 Python 3 Course</text>
+    </g>
+
+    <!-- Cert Pill 3 -->
+    <g transform="translate(0, 80)">
+      <rect width="250" height="42" rx="8" fill="rgba(59, 130, 246, 0.1)" stroke="#3b82f6" stroke-width="1"/>
+      <text x="15" y="26" fill="#dbeafe" font-family="sans-serif" font-size="13" font-weight="600">🗄️ Database Programming (SQL)</text>
+    </g>
+
+    <!-- Cert Pill 4 -->
+    <g transform="translate(265, 80)">
+      <rect width="250" height="42" rx="8" fill="rgba(16, 185, 129, 0.1)" stroke="#10b981" stroke-width="1"/>
+      <text x="15" y="26" fill="#d1fae5" font-family="sans-serif" font-size="13" font-weight="600">🛠️ Freshservice Advanced (2025)</text>
+    </g>
+
+    <!-- Cert Pill 5 -->
+    <g transform="translate(0, 135)">
+      <rect width="250" height="42" rx="8" fill="rgba(236, 72, 153, 0.1)" stroke="#ec4899" stroke-width="1"/>
+      <text x="15" y="26" fill="#fce7f3" font-family="sans-serif" font-size="13" font-weight="600">🤖 Generative AI Mastermind</text>
+    </g>
+
+    <!-- Cert Pill 6 -->
+    <g transform="translate(265, 135)">
+      <rect width="250" height="42" rx="8" fill="rgba(245, 158, 11, 0.1)" stroke="#f59e0b" stroke-width="1"/>
+      <text x="15" y="26" fill="#fef3c7" font-family="sans-serif" font-size="13" font-weight="600">🎯 HubSpot &amp; Zoho Certified</text>
+    </g>
+  </g>
+
+  <!-- Right Side: Publication -->
+  <g transform="translate(620, 45)">
+    <text x="0" y="0" fill="#f8fafc" font-family="-apple-system, sans-serif" font-size="20" font-weight="700">📖 Research Publication</text>
+    
+    <rect x="0" y="25" width="530" height="152" rx="10" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)"/>
+    <text x="20" y="55" fill="#a78bfa" font-family="sans-serif" font-size="14" font-weight="700">Empowering Women: A Data-Driven Approach to</text>
+    <text x="20" y="78" fill="#a78bfa" font-family="sans-serif" font-size="14" font-weight="700">Enhanced Safety through Advanced Self-Protecting System</text>
+    <text x="20" y="115" fill="#94a3b8" font-family="sans-serif" font-size="13">Author: Jishnu G L</text>
+    <text x="20" y="138" fill="#64748b" font-family="sans-serif" font-size="12">Focus: Data Analytics, Embedded IoT Safety Systems &amp; Real-Time Alerts</text>
+  </g>
+</svg>
