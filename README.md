@@ -39,7 +39,7 @@
         <li>📍 <b>Location</b>: Mettupalayam, Tamil Nadu, India 🇮🇳</li>
         <li>🎓 <b>Education</b>: M.Sc. Computer Science & BCA</li>
         <li>💼 <b>Current Role</b>: HubSpot Developer @ Connected CRM Studio</li>
-        <li>📫 <b>Contact</b>: <a href="mailto:jishnugl92@gmail.com">jishnugl92@gmail.com</a> | 📱 +91 9994674488</li>
+        <li>📫 <b>Contact</b>: <a href="mailto:jishnugl92@gmail.com">jishnugl92@gmail.com</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
