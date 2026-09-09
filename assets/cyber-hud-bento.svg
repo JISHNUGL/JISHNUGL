@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <linearGradient id="hud-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="100%" stop-color="#060913"/>
+    </linearGradient>
+
+    <linearGradient id="bar-gradient-1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <linearGradient id="bar-gradient-2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+
+    <linearGradient id="bar-gradient-3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="16" fill="url(#hud-bg)" stroke="rgba(139, 92, 246, 0.25)" stroke-width="1.5"/>
+
+  <!-- HUD Title Bar -->
+  <g transform="translate(50, 45)">
+    <text x="0" y="0" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.5">⚡ Core Competencies &amp; SaaS Matrix HUD</text>
+    <text x="900" y="0" fill="#a855f7" font-family="'Fira Code', monospace" font-size="13" font-weight="700">SYSTEM READY // 100%</text>
+    <line x1="0" y1="20" x2="1100" y2="20" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  </g>
+
+  <!-- Left Column: Platform Mastery Meters -->
+  <g transform="translate(50, 105)">
+    <!-- Skill 1: HubSpot CRM & Automation -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" fill="#e2e8f0" font-family="sans-serif" font-size="14" font-weight="600">HubSpot CRM (Sales, Service, Marketing Hub) &amp; EDM</text>
+      <text x="470" y="0" fill="#a855f7" font-family="monospace" font-size="14" font-weight="700">98%</text>
+      <rect x="0" y="10" width="500" height="12" rx="6" fill="rgba(255,255,255,0.05)"/>
+      <rect x="0" y="10" width="490" height="12" rx="6" fill="url(#bar-gradient-1)"/>
+    </g>
+
+    <!-- Skill 2: Freshservice & Freshdesk ITSM -->
+    <g transform="translate(0, 50)">
+      <text x="0" y="0" fill="#e2e8f0" font-family="sans-serif" font-size="14" font-weight="600">Freshservice ITSM &amp; Freshdesk Workflows (Ezone / Myntra)</text>
+      <text x="470" y="0" fill="#06b6d4" font-family="monospace" font-size="14" font-weight="700">95%</text>
+      <rect x="0" y="10" width="500" height="12" rx="6" fill="rgba(255,255,255,0.05)"/>
+      <rect x="0" y="10" width="475" height="12" rx="6" fill="url(#bar-gradient-2)"/>
+    </g>
+
+    <!-- Skill 3: Python & SQL Analytics -->
+    <g transform="translate(0, 100)">
+      <text x="0" y="0" fill="#e2e8f0" font-family="sans-serif" font-size="14" font-weight="600">Python 3 Programming &amp; Database SQL</text>
+      <text x="470" y="0" fill="#10b981" font-family="monospace" font-size="14" font-weight="700">92%</text>
+      <rect x="0" y="10" width="500" height="12" rx="6" fill="rgba(255,255,255,0.05)"/>
+      <rect x="0" y="10" width="460" height="12" rx="6" fill="url(#bar-gradient-3)"/>
+    </g>
+
+    <!-- Skill 4: Business Analysis & SLA Dashboarding -->
+    <g transform="translate(0, 150)">
+      <text x="0" y="0" fill="#e2e8f0" font-family="sans-serif" font-size="14" font-weight="600">Business Analysis, MIS Reporting &amp; SLA SLA Optimization</text>
+      <text x="470" y="0" fill="#a855f7" font-family="monospace" font-size="14" font-weight="700">96%</text>
+      <rect x="0" y="10" width="500" height="12" rx="6" fill="rgba(255,255,255,0.05)"/>
+      <rect x="0" y="10" width="480" height="12" rx="6" fill="url(#bar-gradient-1)"/>
+    </g>
+
+    <!-- Skill 5: Autonomous AI Video Annotation (NVIDIA) -->
+    <g transform="translate(0, 200)">
+      <text x="0" y="0" fill="#e2e8f0" font-family="sans-serif" font-size="14" font-weight="600">Autonomous System AI Data Validation (NVIDIA)</text>
+      <text x="470" y="0" fill="#06b6d4" font-family="monospace" font-size="14" font-weight="700">94%</text>
+      <rect x="0" y="10" width="500" height="12" rx="6" fill="rgba(255,255,255,0.05)"/>
+      <rect x="0" y="10" width="470" height="12" rx="6" fill="url(#bar-gradient-2)"/>
+    </g>
+  </g>
+
+  <!-- Right Column: Interactive Circular Metrics Card -->
+  <g transform="translate(620, 100)">
+    <rect width="530" height="265" rx="12" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.08)"/>
+    
+    <!-- Circle Metric 1: Enterprise SaaS -->
+    <g transform="translate(90, 85)">
+      <circle cx="0" cy="0" r="45" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="8"/>
+      <circle cx="0" cy="0" r="45" fill="none" stroke="#a855f7" stroke-width="8" stroke-dasharray="280" stroke-dashoffset="30"/>
+      <text x="0" y="6" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="800">3+ Yrs</text>
+      <text x="0" y="65" text-anchor="middle" fill="#94a3b8" font-family="sans-serif" font-size="12" font-weight="600">SaaS Experience</text>
+    </g>
+
+    <!-- Circle Metric 2: Platforms -->
+    <g transform="translate(265, 85)">
+      <circle cx="0" cy="0" r="45" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="8"/>
+      <circle cx="0" cy="0" r="45" fill="none" stroke="#06b6d4" stroke-width="8" stroke-dasharray="280" stroke-dashoffset="15"/>
+      <text x="0" y="6" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="800">6+</text>
+      <text x="0" y="65" text-anchor="middle" fill="#94a3b8" font-family="sans-serif" font-size="12" font-weight="600">Enterprise CRMs</text>
+    </g>
+
+    <!-- Circle Metric 3: SLA Compliance -->
+    <g transform="translate(440, 85)">
+      <circle cx="0" cy="0" r="45" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="8"/>
+      <circle cx="0" cy="0" r="45" fill="none" stroke="#10b981" stroke-width="8" stroke-dasharray="280" stroke-dashoffset="5"/>
+      <text x="0" y="6" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="18" font-weight="800">99.8%</text>
+      <text x="0" y="65" text-anchor="middle" fill="#94a3b8" font-family="sans-serif" font-size="12" font-weight="600">SLA Accuracy</text>
+    </g>
+
+    <!-- Footer Banner inside Card -->
+    <g transform="translate(25, 195)">
+      <rect width="480" height="45" rx="8" fill="rgba(139, 92, 246, 0.1)" stroke="rgba(139, 92, 246, 0.3)"/>
+      <text x="20" y="27" fill="#e9d5ff" font-family="sans-serif" font-size="13" font-weight="600">📜 Certifications: AWS Partner · Python 3 · Database SQL · Freshservice</text>
+    </g>
+  </g>
+</svg>

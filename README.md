@@ -1,11 +1,6 @@
-<!-- Animated Super Mario World Arcade Header -->
+<!-- Animated Super Mario & Luigi Arcade Level Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JISHNUGL/JISHNUGL/main/assets/mario-runner.svg" width="100%" alt="Super Mario World Arcade" />
-</p>
-
-<!-- Handcrafted Cyberpunk Vector Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JISHNUGL/JISHNUGL/main/assets/hero-banner.svg" width="100%" alt="Jishnu G L Banner" />
+  <img src="https://raw.githubusercontent.com/JISHNUGL/JISHNUGL/main/assets/cyber-mario-arcade.svg" width="100%" alt="Super Mario & Luigi Arcade Level" />
 </p>
 
 <!-- Live Action Buttons -->
@@ -34,6 +29,13 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JISHNUGL&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
   </a>
+</p>
+
+---
+
+<!-- Skills & Platform Competencies HUD Bento Card -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JISHNUGL/JISHNUGL/main/assets/cyber-hud-bento.svg" width="100%" alt="Skills HUD Matrix" />
 </p>
 
 ---
