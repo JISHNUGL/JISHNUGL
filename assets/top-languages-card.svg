@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="100%" height="100%">
+  <defs>
+    <linearGradient id="card-bg-langs" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="495" height="195" rx="10" fill="url(#card-bg-langs)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+
+  <text x="30" y="38" fill="#70a5fd" font-family="-apple-system, BlinkMacSystemFont, 'Fira Code', monospace" font-size="18" font-weight="700">Most Used Languages</text>
+
+  <!-- Progress Bar Base -->
+  <g transform="translate(30, 58)">
+    <!-- Stacked bar -->
+    <rect x="0" y="0" width="180" height="10" fill="#f7df1e" rx="3"/>
+    <rect x="180" y="0" width="120" height="10" fill="#e34f26" rx="0"/>
+    <rect x="300" y="0" width="80" height="10" fill="#3776ab" rx="0"/>
+    <rect x="380" y="0" width="35" height="10" fill="#3178c6" rx="0"/>
+    <rect x="415" y="0" width="20" height="10" fill="#4479a1" rx="3"/>
+  </g>
+
+  <!-- Legend Grid -->
+  <g transform="translate(30, 95)">
+    <!-- JS -->
+    <circle cx="6" cy="6" r="6" fill="#f7df1e"/>
+    <text x="20" y="10" fill="#a9b1d6" font-family="sans-serif" font-size="13" font-weight="600">JavaScript (41.4%)</text>
+
+    <!-- HTML/CSS -->
+    <circle cx="230" cy="6" r="6" fill="#e34f26"/>
+    <text x="244" y="10" fill="#a9b1d6" font-family="sans-serif" font-size="13" font-weight="600">HTML &amp; CSS (27.6%)</text>
+
+    <!-- Python -->
+    <circle cx="6" cy="36" r="6" fill="#3776ab"/>
+    <text x="20" y="40" fill="#a9b1d6" font-family="sans-serif" font-size="13" font-weight="600">Python (18.4%)</text>
+
+    <!-- TypeScript -->
+    <circle cx="230" cy="36" r="6" fill="#3178c6"/>
+    <text x="244" y="40" fill="#a9b1d6" font-family="sans-serif" font-size="13" font-weight="600">TypeScript (8.0%)</text>
+
+    <!-- SQL -->
+    <circle cx="6" cy="66" r="6" fill="#4479a1"/>
+    <text x="20" y="70" fill="#a9b1d6" font-family="sans-serif" font-size="13" font-weight="600">SQL &amp; Others (4.6%)</text>
+  </g>
+</svg>
