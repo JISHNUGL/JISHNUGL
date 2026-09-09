@@ -1,58 +1,80 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B+I'm+Jishnu+G+L;HubSpot+Developer+%26+SaaS+Implementation+Specialist;ITSM+%7C+Freshservice+%7C+HubSpot+CRM+%7C+Process+Automation" alt="Typing SVG" />
-</h1>
+<!-- 3D Wave Header Banner with Capsule Render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=220&section=header&text=Jishnu%20G%20L&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
+</p>
+
+<!-- Typing Animated Headline -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=HubSpot+Developer+%26+SaaS+Architect;ITSM+Specialist+%7C+Freshservice+%7C+Freshdesk+%7C+HubSpot;Business+Analyst+%26+Process+Automation+Engineer;Certified+in+AWS%2C+Python%2C+SQL+%26+Freshworks" alt="Typing SVG" />
+</h2>
+
+<!-- Live Status & Quick Metrics -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Roles-059669?style=for-the-badge&logoColor=white" alt="Status" />
+  <a href="https://jishnu-g-l-f68u.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-jishnu--g--l--f68u.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jishnu-gl-649167197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 <p align="center">
-  <a href="https://jishnu-g-l-f68u.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-jishnu--g--l--f68u.vercel.app-8b5cf6?style=flat-square&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JISHNUGL&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JISHNUGL&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/JISHNUGL?tab=followers"><img src="https://img.shields.io/github/followers/JISHNUGL?label=Followers&style=flat-square&color=238636" alt="Followers" /></a>
   <a href="https://github.com/JISHNUGL"><img src="https://img.shields.io/github/stars/JISHNUGL?style=flat-square&color=e3b341&label=Stars" alt="Stars" /></a>
 </p>
 
+<br/>
+
+<!-- GitHub Trophies Banner -->
 <p align="center">
-  💼 <b>Business Analyst & SaaS Implementation Specialist</b> with 3+ years of experience configuring enterprise CRM & ITSM platforms (HubSpot, Freshservice, Freshdesk, Freshsales) for clients like <b>Ezone</b> and <b>Myntra</b>.
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JISHNUGL&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Jishnu's GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
-### ⚡ Professional Summary
+### 🍱 Bento Grid Overview
 
-```yaml
-name: Jishnu G L
-location: Mettupalayam, Tamil Nadu, India 🇮🇳
-title: HubSpot Developer | Business Analyst | ITSM & CRM Specialist
-degree: M.Sc. Computer Science & BCA
-experience: 3+ Years in Enterprise SaaS & AI Process Optimization
-core_domains:
-  - 🛠️ HubSpot CRM (Sales, Service & Marketing Hub) & EDM Solutions
-  - ⚙️ ITSM Implementation (Freshservice, Freshdesk, Freshsales)
-  - 📊 Business Analysis, Custom Dashboards & MIS KPI Tracking
-  - 🤖 Process Automation, Chatbots & Autonomous AI Data Validation (NVIDIA)
-```
-
-- 🔭 **Current Role**: HubSpot Developer at **Connected CRM Studio**, building custom EDM solutions, website functionality, SEO, and marketing automation.
-- 💼 **Enterprise Client Track Record**: Led end-to-end SaaS deployments for enterprise clients including **Myntra** and **Ezone** at Kambaa Inc.
-- 🌱 **AI & Data Background**: Contributed to high-accuracy autonomous vehicle AI model training at **NVIDIA**.
-- 📜 **Publication**: *Empowering Women: A Data-Driven Approach to Enhanced Safety through the Advanced Women Self-Protecting System*.
-- 💬 **Ask me about**: HubSpot API, Freshworks suite, ITSM SLA workflows, Python, SQL, and process automation.
-- 📫 **Contact**: **[jishnugl92@gmail.com](mailto:jishnugl92@gmail.com)** | 📱 **+91 9994674488**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 About Me</h3>
+      <p>I am a <b>Business Analyst & SaaS Implementation Specialist</b> with 3+ years of experience transforming CRM & ITSM ecosystems for enterprise clients like <b>Ezone</b> and <b>Myntra</b>.</p>
+      <ul>
+        <li>📍 <b>Location</b>: Mettupalayam, Tamil Nadu, India 🇮🇳</li>
+        <li>🎓 <b>Education</b>: M.Sc. Computer Science & BCA</li>
+        <li>💼 <b>Current Role</b>: HubSpot Developer @ Connected CRM Studio</li>
+        <li>🚀 <b>Core Expertise</b>: HubSpot CRM, Freshservice ITSM, Process Automation, EDM & SEO</li>
+        <li>📫 <b>Contact</b>: <a href="mailto:jishnugl92@gmail.com">jishnugl92@gmail.com</a> | 📱 +91 9994674488</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Quick Highlights</h3>
+      <ul>
+        <li>🏢 <b>Enterprise Deployments</b>: End-to-end ITSM/CRM workflow configuration for <b>Ezone</b> & <b>Myntra</b> at Kambaa Inc.</li>
+        <li>🤖 <b>AI Experience</b>: Autonomous car video annotation & QA protocol management at <b>NVIDIA</b>.</li>
+        <li>📜 <b>Publication</b>: <i>Empowering Women: A Data-Driven Approach to Safety</i>.</li>
+        <li>📜 <b>Top Certs</b>: AWS Partner, Python 3, SQL, Freshservice Advanced 2025, GenAI Mastermind.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Technical Skills & Certified Platforms
+### 🛠️ Tech Stack & SaaS Ecosystem
 
 <p align="center">
   <b>SaaS, CRM & ITSM Platforms</b><br/>
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freshdesk-00C49F?style=for-the-badge&logo=freshworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Freshservice-00A88F?style=for-the-badge&logo=freshworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freshdesk-00C49F?style=for-the-badge&logo=freshworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Freshsales-008775?style=for-the-badge&logo=freshworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Zoho_CRM-1B75BB?style=for-the-badge&logo=zoho&logoColor=white" />
   <img src="https://img.shields.io/badge/Monday.com-FF3366?style=for-the-badge&logo=mondaydotcom&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Programming & Databases</b><br/>
+  <b>Languages & Web Development</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -62,60 +84,79 @@ core_domains:
 </p>
 
 <p align="center">
-  <b>Cloud & Data Tools</b><br/>
+  <b>Cloud, Data & DevOps</b><br/>
   <img src="https://img.shields.io/badge/AWS_Partner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_AI_Data-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_AI_Data-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 📜 Certifications & Achievements
+### 🏢 Work Experience & Achievements
 
-- 🏅 **AWS Partner**: Accreditation (Business)
-- 🐍 **Python 3 Certification Course**
-- 🗄️ **Database Programming With SQL**
-- 🛠️ **Freshservice Advanced Course (2025)** & CX Implementation Specialist
-- 🤖 **Generative AI Mastermind**
-- 🎓 Certified across **HubSpot** (Marketing, Sales & Service Hub), **Zoho** (CRM & Desk), and **monday.com**
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Role</th>
+      <th>Period</th>
+      <th>Key Deliverables</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Connected CRM Studio</b></td>
+      <td>HubSpot Developer</td>
+      <td>Aug 2026 - Present</td>
+      <td>HubSpot sales/service solutions, EDM templates, website UX, SEO & marketing automation.</td>
+    </tr>
+    <tr>
+      <td><b>Kambaa Inc</b></td>
+      <td>Business Analyst</td>
+      <td>Feb 2025 - Jul 2026</td>
+      <td>End-to-end SaaS deployments for <b>Ezone</b> & <b>Myntra</b> across Freshdesk, Freshservice, HubSpot & Zoho. SLA optimization & custom MIS dashboards.</td>
+    </tr>
+    <tr>
+      <td><b>NVIDIA</b></td>
+      <td>Associate Process Exec</td>
+      <td>Sep 2024 - Feb 2025</td>
+      <td>Autonomous vehicle computer vision data annotation & QA validation protocols for self-driving models.</td>
+    </tr>
+    <tr>
+      <td><b>Osai eBiz Integrators</b></td>
+      <td>Technical Support Engineer</td>
+      <td>May 2022 - Sep 2023</td>
+      <td>Freshservice ITSM & Freshsales CRM incident tracking, ticket workflows & SLA compliance.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 🏢 Work Experience Highlights
-
-| Company | Role | Duration | Focus Areas |
-| :--- | :--- | :--- | :--- |
-| **Connected CRM Studio** | HubSpot Developer | Aug 2026 - Present | HubSpot solutions across sales/service/marketing, EDM development, SEO, website UX |
-| **Kambaa Inc** | Business Analyst | Feb 2025 - Jul 2026 | Enterprise SaaS implementation (Ezone, Myntra), ITSM workflows, chatbot flows, custom MIS dashboards |
-| **NVIDIA** | Associate Process Executive | Sep 2024 - Feb 2025 | Autonomous car AI model video annotation & QA validation protocols |
-| **Osai eBiz Integrators** | Technical Support Engineer | May 2022 - Sep 2023 | Freshservice ITSM & Freshsales CRM administration, ticket resolution |
-
----
-
-### 📊 GitHub Activity & Statistics
+### 📊 Dynamic GitHub Activity & Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JISHNUGL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jishnu's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JISHNUGL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISHNUGL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JISHNUGL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JISHNUGL&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Grid Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JISHNUGL/JISHNUGL/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/JISHNUGL/JISHNUGL/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
 </p>
 
 ---
 
-### 🌐 Connect & Portfolio
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://jishnu-g-l-f68u.vercel.app/" target="_blank">
@@ -134,6 +175,7 @@ core_domains:
 
 <br/>
 
+<!-- Footer Capsule Render -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
