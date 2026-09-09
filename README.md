@@ -1,3 +1,8 @@
+<!-- Animated Super Mario World Arcade Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JISHNUGL/JISHNUGL/main/assets/mario-runner.svg" width="100%" alt="Super Mario World Arcade" />
+</p>
+
 <!-- Handcrafted Cyberpunk Vector Hero Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/JISHNUGL/JISHNUGL/main/assets/hero-banner.svg" width="100%" alt="Jishnu G L Banner" />
@@ -100,25 +105,6 @@
 </p>
 
 ---
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://jishnugl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/jishnu-gl-649167197" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jishnugl92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/JISHNUGL" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
